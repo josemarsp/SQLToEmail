@@ -1,2 +1,2 @@
-rootProject.name = "SQLtoMailGradle"
+rootProject.name = "SQLtoMail"
 
