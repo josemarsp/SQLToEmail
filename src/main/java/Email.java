@@ -1,6 +1,4 @@
 import io.github.cdimascio.dotenv.Dotenv;
-import sun.text.normalizer.UTF16;
-
 import javax.mail.*;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
